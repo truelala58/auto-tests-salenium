@@ -1,2 +1,2 @@
 # auto-tests-salenium
-some homeworks
+some homework
